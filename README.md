@@ -1,16 +1,18 @@
-## Hi there 👋
+### Hi, I'm Agustín
 
-<!--
-**AgustinSilva-dev/AgustinSilva-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer working with TypeScript, NestJS and React. Since April 2025 I've been part of a small startup team (in stealth), working on both backend and frontend.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tech Stack
+
+[![Stack](https://skillicons.dev/icons?i=react,ts,tailwind,nodejs,nestjs,postgres,mysql,redis,docker,git)](https://skillicons.dev)
+
+Also: React Hook Form, Zod, TypeORM, Swagger
+
+---
+
+### What I'm working on
+
+- Building REST APIs with NestJS: DTOs, entities, services and CRUD modules
+- Authentication flows in React (login, register, verification) backed by Redis and Cloudflare Turnstile
